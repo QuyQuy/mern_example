@@ -1,0 +1,23 @@
+{
+  "name": "mern_example",
+  "version": "1.0.0",
+  "description": "Example MERNproject setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuyQuy/mern_example.git"
+  },
+  "author": "Quy Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuyQuy/mern_example/issues"
+  },
+  "homepage": "https://github.com/QuyQuy/mern_example#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
